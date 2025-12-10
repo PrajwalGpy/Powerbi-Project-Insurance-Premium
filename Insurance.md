@@ -1,6 +1,6 @@
 # Insurance Premium and Payout KPI Dashboard
 
-![Project Banner](https://via.placeholder.com/1200x300?text=Insurance+Premium+and+Payout+KPI+Dashboard+Placeholder)
+![Project Banner](https://github.com/PrajwalGpy/Powerbi-Project-Insurance-Premium/blob/main/Recording%202025-12-10%20184038.gif)
 
 ## Table of Contents
 
@@ -190,3 +190,4 @@ SUMX(
     - Test **RLS** by going to `Modeling > View as` and selecting different roles.
 
 ---
+
